@@ -23,3 +23,4 @@ A non-comprehensive list of shells to test the script with
 
 *Technically zsh does not have to work because it's not posix compliant, but zsh should work at least some what.
 branch 1 commit 1 p7
+branch 1 commit 2 p7
